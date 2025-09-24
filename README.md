@@ -3,6 +3,7 @@ A Fabric Business Strategy Dashboard
 
 ![Architecture Diagram for Fabric Business Strategy Dashboard](https://github.com/RemoteDataEngineer/FabricBusinessStrategyDashboard/blob/c7971f2ed9681e1e2a717190b667ce791cb7e399/Remote%20Data%20Engineer%20Fabric%20Architecture%20Diagram.jpg)
 
+📊 [Click to access Sample Data Analyst Strategy Dashboard](https://app.powerbi.com/reportEmbed?reportId=1504f0a3-6062-47fd-8ee1-d1a4779684e6&autoAuth=true&ctid=10d540e4-9455-436a-8f87-a2f019fb8983&actionBarEnabled=true&reportCopilotInEmbed=true)
 
 📊 Customer Retention & Lifecycle Analytics – Medallion Architecture
 This project showcases a modular, interview-ready medallion architecture built on Microsoft Fabric and Power BI. It leverages the Worldwide Importers sample dataset to demonstrate scalable customer retention, churn analysis, and lifecycle storytelling using Lakehouse, Dataflow Gen2, and semantic modeling.
