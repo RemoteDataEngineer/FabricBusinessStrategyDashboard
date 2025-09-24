@@ -273,3 +273,14 @@ Engagement programs show measurable uplift in CLV across tiers and lifecycle sta
 Discounted CLV supports financial planning and prioritization.
 Lifecycle segmentation reveals timing windows for maximum impact.
 
+Github Additions:
+For now I only have the link to the published Power Bi Report. I will be adding Videos explaining how to add the following ->
+## ✅ Git Compatibility by Layer
+
+| **Layer**       | **Component**                                      | **Git Integration Support**                                                   |
+|-----------------|----------------------------------------------------|--------------------------------------------------------------------------------|
+| Bronze          | Lakehouse (`lkh_WorldWideImportersData`)          | ✅ Supported via Fabric Git integration                                        |
+| Silver          | Dataflow Gen2 (`dfg2_Fact_Tables`)                 | ⚠️ Limited support — Git integration is available, but still evolving         |
+| Gold            | Power BI Semantic Model                            | ✅ Supported via Power BI Desktop & deployment pipelines                       |
+| Presentation    | Power BI Dashboard (`Business Strategy Dashboard`) | ✅ Supported via `.pbix` versioning and Git workflows                          |
+
